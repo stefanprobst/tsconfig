@@ -1,9 +1,9 @@
 {
   "name": "@stefanprobst/tsconfig",
-  "version": "2.1.1",
+  "version": "2.2.0",
   "main": "tsconfig.json",
   "license": "MIT",
   "peerDependencies": {
-    "typescript": ">=4.7"
+    "typescript": ">=4.8"
   }
 }

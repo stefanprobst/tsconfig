@@ -9,7 +9,7 @@
     "incremental": true,
     "isolatedModules": true,
     "jsx": "preserve",
-    "lib": ["dom", "dom.iterable", "es2019"],
+    "lib": ["dom", "dom.iterable", "es2021"],
     "module": "esnext",
     "moduleResolution": "node",
     "noEmit": true,
@@ -20,6 +20,6 @@
     "resolveJsonModule": true,
     "skipLibCheck": true,
     "strict": true,
-    "target": "es2019"
+    "target": "es2021"
   }
 }
