@@ -2,10 +2,11 @@
 	"name": "@stefanprobst/tsconfig",
 	"version": "2.2.2",
 	"license": "MIT",
-	"main": "tsconfig.json",
+	"main": ",/tsconfig.json",
 	"files": [
-		"tsconfig.json"
+		"./tsconfig.json"
 	],
+	"packageManager": "pnpm@7.28.0",
 	"scripts": {
 		"changeset:add": "changeset add",
 		"changeset:status": "changeset status --verbose",
@@ -16,19 +17,18 @@
 		"setup": "simple-git-hooks || exit 0",
 		"validate": "run-p format:check"
 	},
-	"packageManager": "pnpm@7.18.1",
 	"peerDependencies": {
-		"typescript": ">=4.8"
+		"typescript": ">=5"
 	},
 	"devDependencies": {
 		"@changesets/changelog-github": "^0.4.8",
 		"@changesets/cli": "^2.26.0",
-		"@commitlint/cli": "^17.3.0",
+		"@commitlint/cli": "^17.4.4",
 		"@stefanprobst/commitlint-config": "^1.0.3",
 		"@stefanprobst/prettier-config": "^3.0.0",
-		"lint-staged": "^13.1.0",
+		"lint-staged": "^13.1.2",
 		"npm-run-all": "^4.1.5",
-		"prettier": "^2.8.1",
+		"prettier": "^2.8.4",
 		"simple-git-hooks": "^2.8.1"
 	},
 	"commitlint": {

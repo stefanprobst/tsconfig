@@ -10,7 +10,7 @@
 		"isolatedModules": true,
 		"jsx": "preserve",
 		"lib": ["dom", "dom.iterable", "es2021"],
-		"module": "esnext",
+		"module": "nodenext",
 		"moduleResolution": "node",
 		"noEmit": true,
 		"noFallthroughCasesInSwitch": true,
@@ -20,6 +20,7 @@
 		"resolveJsonModule": true,
 		"skipLibCheck": true,
 		"strict": true,
-		"target": "es2021"
+		"target": "es2021",
+		"verbatimModuleSyntax": true
 	}
 }
