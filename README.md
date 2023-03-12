@@ -1,6 +1,6 @@
 # `tsconfig.json`
 
-## for apps
+## for applications
 
 ```json
 {
@@ -8,7 +8,7 @@
 }
 ```
 
-## for libs
+## for libraries
 
 ```json
 {
