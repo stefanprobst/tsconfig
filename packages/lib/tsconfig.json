@@ -6,7 +6,6 @@
 		"exactOptionalPropertyTypes": true,
 		"forceConsistentCasingInFileNames": true,
 		"incremental": true,
-		"isolatedModules": true,
 		"jsx": "react-jsx",
 		"lib": ["dom", "dom.iterable", "es2021"],
 		"module": "nodenext",
