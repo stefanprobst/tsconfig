@@ -1,5 +1,12 @@
 # @stefanprobst/tsconfig-lib
 
+## 1.0.2
+
+### Patch Changes
+
+- [`0ba4b0e`](https://github.com/stefanprobst/tsconfig/commit/0ba4b0e3e5b3b662b457e24eaac9e96f9e9a8c50)
+  Thanks [@stefanprobst](https://github.com/stefanprobst)! - add outdir option
+
 ## 1.0.1
 
 ### Patch Changes
