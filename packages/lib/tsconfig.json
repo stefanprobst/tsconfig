@@ -3,6 +3,7 @@
 	"compilerOptions": {
 		"allowJs": true,
 		"checkJs": true,
+		"declaration": true,
 		"exactOptionalPropertyTypes": true,
 		"forceConsistentCasingInFileNames": true,
 		"incremental": true,
@@ -14,6 +15,7 @@
 		"noImplicitReturns": true,
 		"noPropertyAccessFromIndexSignature": true,
 		"noUncheckedIndexedAccess": true,
+		"outDir": "dist",
 		"resolveJsonModule": true,
 		"skipLibCheck": true,
 		"strict": true,
