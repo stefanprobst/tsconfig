@@ -1,5 +1,12 @@
 # @stefanprobst/tsconfig
 
+## 3.0.2
+
+### Patch Changes
+
+- [`e85b7be`](https://github.com/stefanprobst/tsconfig/commit/e85b7bea9ed4e50de95514cefc4179b47d38b0ab)
+  Thanks [@stefanprobst](https://github.com/stefanprobst)! - fix bundler module resolution
+
 ## 3.0.1
 
 ### Patch Changes
