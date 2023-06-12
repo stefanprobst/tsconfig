@@ -1,5 +1,12 @@
 # @stefanprobst/tsconfig
 
+## 3.0.3
+
+### Patch Changes
+
+- [`66aed3a`](https://github.com/stefanprobst/tsconfig/commit/66aed3a7dfcb626df9abb09bcb870ac9479e384b)
+  Thanks [@stefanprobst](https://github.com/stefanprobst)! - allow react-server export condition
+
 ## 3.0.2
 
 ### Patch Changes
