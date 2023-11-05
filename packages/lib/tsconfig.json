@@ -7,7 +7,7 @@
 		"exactOptionalPropertyTypes": true,
 		"incremental": true,
 		"jsx": "react-jsx",
-		"lib": ["dom", "dom.iterable", "es2021"],
+		"lib": ["dom", "dom.iterable", "es2022"],
 		"module": "nodenext",
 		"moduleResolution": "nodenext",
 		"noFallthroughCasesInSwitch": true,
@@ -18,7 +18,7 @@
 		"resolveJsonModule": true,
 		"skipLibCheck": true,
 		"strict": true,
-		"target": "es2021",
+		"target": "es2022",
 		"verbatimModuleSyntax": true
 	}
 }
