@@ -1,5 +1,15 @@
 # @stefanprobst/tsconfig
 
+## 3.0.4
+
+### Patch Changes
+
+- [`c4e2c5a`](https://github.com/stefanprobst/tsconfig/commit/c4e2c5ae21481026110148862e8ab8440a105b58)
+  Thanks [@stefanprobst](https://github.com/stefanprobst)! - allow import with ts extension
+
+- [`f4e294d`](https://github.com/stefanprobst/tsconfig/commit/f4e294d616ae1c0c8906002090d1151e3280a442)
+  Thanks [@stefanprobst](https://github.com/stefanprobst)! - bump target to es2023
+
 ## 3.0.3
 
 ### Patch Changes
