@@ -3,4 +3,4 @@
 "@stefanprobst/tsconfig-lib": patch
 ---
 
-bump target to es2022
+bump target to es2023
