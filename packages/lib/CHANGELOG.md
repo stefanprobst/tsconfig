@@ -1,5 +1,12 @@
 # @stefanprobst/tsconfig-lib
 
+## 1.0.3
+
+### Patch Changes
+
+- [`f4e294d`](https://github.com/stefanprobst/tsconfig/commit/f4e294d616ae1c0c8906002090d1151e3280a442)
+  Thanks [@stefanprobst](https://github.com/stefanprobst)! - bump target to es2023
+
 ## 1.0.2
 
 ### Patch Changes
