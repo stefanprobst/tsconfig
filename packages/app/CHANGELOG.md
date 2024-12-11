@@ -1,5 +1,13 @@
 # @stefanprobst/tsconfig
 
+## 3.1.0
+
+### Minor Changes
+
+- [`d53cedd`](https://github.com/stefanprobst/tsconfig/commit/d53cedd7780d8fb2781e73b78dbc8633d88191cd)
+  Thanks [@stefanprobst](https://github.com/stefanprobst)! - use module preserve, check sideeffect
+  imports, disable exactOptionalPropertyTypes and noPropertyAccessFromIndexSignature
+
 ## 3.0.4
 
 ### Patch Changes
