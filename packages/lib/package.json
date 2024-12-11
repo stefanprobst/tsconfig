@@ -7,6 +7,6 @@
 		"./tsconfig.json"
 	],
 	"peerDependencies": {
-		"typescript": ">=5"
+		"typescript": ">=5.6"
 	}
 }
